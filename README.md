@@ -7,6 +7,7 @@ The point of this code is to be a refresher on the C language. It has an array o
 
 
 **Usage**
+
 A makefile is included in the folder to make compiling the code easier.
 
 To just compile the code using gcc, issue the following command:
